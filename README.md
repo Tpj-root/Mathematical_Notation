@@ -279,3 +279,16 @@ https://byjus.com/maths/math-symbols/
 
 
 
+
+
+### kin
+
+
+```
+https://github.com/orocos/orocos_kinematics_dynamics/
+```
+
+
+
+
+
