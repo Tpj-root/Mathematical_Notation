@@ -42,8 +42,8 @@ A mathematical expression is a combination of numbers, symbols, and operators th
     <th>-</th>
   </tr>
     <th>4</th>
-    <th>strict inequality</th>
-    <th>inequality</th>
+    <th>></th>
+    <th> greater than</th>
     <th>greater than</th>
     <th>6 > 2</th>
     <th>></th>
@@ -275,6 +275,7 @@ A mathematical expression is a combination of numbers, symbols, and operators th
 
 ```
 https://byjus.com/maths/math-symbols/
+
 ```
 
 
